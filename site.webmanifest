@@ -1,0 +1,21 @@
+{
+  "name": "GBook | Đọc sách cùng bạn",
+  "short_name": "GBook",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Tải lên PDF sách của bạn và nhận ngay tổng quan, danh sách chương, và tóm tắt chi tiết từng chương bằng AI",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
